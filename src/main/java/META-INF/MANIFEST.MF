@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: log-0.138.jar validation-api-1.1.0.Final.jar commons-beanu
+ tils-core-1.8.3.jar guice-multibindings-4.0.jar lucene-queryparser-4.
+ 10.4.jar jackson-datatype-jsr310-2.8.1.jar log4j-over-slf4j-1.7.12.ja
+ r guava-18.0.jar bval-core-1.1.1.jar configuration-0.138.jar json-200
+ 80701.jar elasticsearch-1.7.0.jar jcl-over-slf4j-1.7.12.jar lucene-sp
+ atial-4.10.4.jar jaxb-api-2.2.6.jar jackson-core-2.8.1.jar bootstrap-
+ 0.138.jar slf4j-api-1.7.12.jar jackson-datatype-joda-2.8.1.jar cglib-
+ nodep-2.2.2.jar fastjson-1.2.4.jar lucene-highlighter-4.10.4.jar anno
+ tations-2.0.3.jar antlr-runtime-3.5.jar spatial4j-0.4.1.jar lucene-me
+ mory-4.10.4.jar lucene-analyzers-common-4.10.4.jar bval-jsr-1.1.1.jar
+  jmxutils-1.19.jar lucene-core-4.10.4.jar slf4j-jdk14-1.7.12.jar jack
+ son-datatype-jdk8-2.8.1.jar joda-time-2.7.jar jackson-datatype-guava-
+ 2.8.1.jar lucene-suggest-4.10.4.jar javax.inject-1.jar lucene-join-4.
+ 10.4.jar logback-core-1.0.13.jar lucene-sandbox-4.10.4.jar aopallianc
+ e-1.0.jar lucene-misc-4.10.4.jar lucene-grouping-4.10.4.jar lucene-qu
+ eries-4.10.4.jar commons-lang3-3.3.2.jar jackson-databind-2.8.1.jar j
+ axb-impl-2.2.6.jar json-0.138.jar log-manager-0.138.jar guice-4.0.jar
+Main-Class: 
+
